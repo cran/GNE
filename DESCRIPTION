@@ -1,16 +1,16 @@
 Package: GNE
 Type: Package
 Title: Computation of generalized Nash equilibria
-Version: 0.98
-Date: 2014-05-27
+Version: 0.99-0
+Date: 2014-08-31
 Author: Christophe Dutang
 Maintainer: Christophe Dutang <christophe.dutang@ensimag.fr>
-Description: Provide function to compute standard and generalized Nash Equilibrium.
+Description: Provide functions to compute standard and generalized Nash Equilibria. The following optimization methods are available nonsmooth reformulation, fixed-point formulation, minimization problem and constrained-equation reformulation. 
 Depends: R (>= 2.6.0), alabama, nleqslv, BB, SQUAREM
 Suggests: sensitivity
 License: GPL (>= 2)
 URL: http://optimizer.r-forge.r-project.org/
-Packaged: 2014-06-10 08:03:38 UTC; dutangc
+Packaged: 2014-07-31 07:34:43 UTC; dutangc
 NeedsCompilation: yes
 Repository: CRAN
-Date/Publication: 2014-06-11 08:20:53
+Date/Publication: 2014-07-31 10:09:29
