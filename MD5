@@ -1,4 +1,4 @@
-c1ea5df386893da37463842279e18fbd *DESCRIPTION
+ffa915aa4f9f9f3ab54aaf93f23c050d *DESCRIPTION
 f32cfc476aae0bd6de8eb81af24dee98 *NAMESPACE
 0718953e2520d1cb64f331dd4530c8b4 *R/solv-GNE-bench.R
 c6a5b6b60ce8bc5051ec7bd56318e10c *R/solv-GNE.R
@@ -27,14 +27,14 @@ abd121dba3706ee285e7a11128c1aef4 *R/util-projection.R
 b54d2387e7975e20ccd4ffd35d6b4e81 *R/util-rejectalgo.R
 4782f49ab664f69b868fab3be14be834 *R/util-stepfunctions.R
 fe4d41b29909c0d1fd075a04e3c954a6 *R/util-trustregion.R
-5f1a0c6ae48c65c23ddf3196fff4df26 *build/vignette.rds
-f0b3c0d68ecdfcc5af13328a5f875f85 *inst/CITATION
-7cf52cc851fdc0cc9ccbd7b8d09827f1 *inst/NEWS
+3986b0bab31d8003fa629abbafffa5f9 *build/vignette.rds
+efa727ef497731acac8c35a0a6fdb90f *inst/CITATION
+fce22870991cc308a31201b825a3e71f *inst/NEWS
 08d01e198685711822a0aeee60c98bd1 *inst/TODOlist.txt
-8565d001422b903314bdd755842c5492 *inst/doc/GNE-howto.R
-70e9aaceef1d349856b408efe3e8b921 *inst/doc/GNE-howto.Rnw
-815aa6dcc8db4553983edfd4666c25dc *inst/doc/GNE-howto.pdf
-8a38ef3b0897b7e824ea1d98fc72d3fa *man/GNE.Rd
+ef5b107bcdc0243c97a26cf370ecd9b7 *inst/doc/GNE-howto.R
+d346209223e3c14a3d53229f09ea3da0 *inst/doc/GNE-howto.Rnw
+05d4981c17f804c410419354cf483fa0 *inst/doc/GNE-howto.pdf
+764bbcba3b31600a5e31787884496a9f *man/GNE.Rd
 b645e72bbe6a9c7416bef5600bf3976e *man/GNE.bench.Rd
 de34404400350a994e3ffd14dfab3cbd *man/GNE.ceq.Rd
 0d8118bf433bb002766fca1592579cc4 *man/GNE.fpeq.Rd
@@ -52,7 +52,7 @@ f1a6ab6c8d7c7602e62923d2af161444 *man/util-complementarity.Rd
 41ba4c6cb71e8df5be1d582d7d7ca4cd *man/util-stepfunc.Rd
 928194d16d5c08d281cb988cfa389860 *src/SSR.c
 25934877033d7f186b5cbebf83309c03 *src/SSR.h
-5e7fbc8fea0ed99b4382544579f9a4fd *src/init.c
+86fca7159e269b2478b84e717f527af3 *src/init.c
 fd9a775088b8f96fdd0c6adee0df23dd *src/locale.h
 a649c49ab7c583db6fb26994fff38977 *tests/CER-funCER-Rcode-constr.R
 46f3c5dc8af931774716319e15e2746c *tests/CER-funCER-Rcode-constrjoint.R
@@ -73,7 +73,7 @@ b7d8d2772aa8fa7a80230a133c015051 *tests/complfunc-funcFB.R
 c7fd231f1dffa77fa55e95a5595c5236 *tests/sensi-analysis-genduopoly.R
 ed4ba7c9354cc615d51817e05f8fcc90 *tests/sensi-analysis-riverbasinpollution.R
 b47c40073c7091a80c0de7ceb47f768e *tests/util-testfunc.R
-70e9aaceef1d349856b408efe3e8b921 *vignettes/GNE-howto.Rnw
+d346209223e3c14a3d53229f09ea3da0 *vignettes/GNE-howto.Rnw
 68e245bafa8d0e6a1f1b528ea4cc8450 *vignettes/GNE-howto.bib
 2f0662702d2888cc66793010f52d8af4 *vignettes/img/4GNEPlots.pdf
 41e91feab96925bbbd724608aa3b8d24 *vignettes/img/4GNEinitialPoints.pdf
