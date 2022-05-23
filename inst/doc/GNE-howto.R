@@ -1,5 +1,4 @@
 ### R code from vignette source 'GNE-howto.Rnw'
-### Encoding: UTF-8
 
 ###################################################
 ### code chunk number 1: load

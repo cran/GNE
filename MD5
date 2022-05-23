@@ -1,4 +1,4 @@
-99ba6b7f3d1e69cef9a0692ab86a0001 *DESCRIPTION
+bdfe42c6519fc27dc4a4c24b4a953fa0 *DESCRIPTION
 e52f9b2b7a86cb6d63098f8216ccfccc *NAMESPACE
 0718953e2520d1cb64f331dd4530c8b4 *R/solv-GNE-bench.R
 2c06294014fa50f8df520c79db9d5515 *R/solv-GNE.R
@@ -27,13 +27,13 @@ abd121dba3706ee285e7a11128c1aef4 *R/util-projection.R
 b54d2387e7975e20ccd4ffd35d6b4e81 *R/util-rejectalgo.R
 4782f49ab664f69b868fab3be14be834 *R/util-stepfunctions.R
 fe4d41b29909c0d1fd075a04e3c954a6 *R/util-trustregion.R
-e9e0120cc5d1977f08d5516d34cd1bf3 *build/vignette.rds
+789b05ce9b0d91934ac4cb1ca4662756 *build/vignette.rds
 efa727ef497731acac8c35a0a6fdb90f *inst/CITATION
 8a05e1fea4134a587afe51ac7206beb9 *inst/NEWS
 08d01e198685711822a0aeee60c98bd1 *inst/TODOlist.txt
-ef5b107bcdc0243c97a26cf370ecd9b7 *inst/doc/GNE-howto.R
+2da222bd76924139c9cb6b5ede3212b5 *inst/doc/GNE-howto.R
 d346209223e3c14a3d53229f09ea3da0 *inst/doc/GNE-howto.Rnw
-3410760f4134ab996ff6a573e6bb1046 *inst/doc/GNE-howto.pdf
+85ab6489788f04c7f9547d0de6a54319 *inst/doc/GNE-howto.pdf
 1ddcdeecfa9bfc9b3ad130ed43c9d6f4 *man/GNE.Rd
 b645e72bbe6a9c7416bef5600bf3976e *man/GNE.bench.Rd
 de34404400350a994e3ffd14dfab3cbd *man/GNE.ceq.Rd
