@@ -44,7 +44,7 @@ GNE.nseq(z0, dimx, dimlam, grobj=grobj, myarg, heobj=heobj, myarg,
 	compl=phiFB, gcompla=GrAphiFB, gcomplb=GrBphiFB, method="Newton", 
 	control=list(trace=0))
 
-## ---- fig=FALSE, echo=FALSE, eval=TRUE----------------------------------------
+## ----fig=FALSE, echo=FALSE, eval=TRUE-----------------------------------------
 #list of true GNEs
 trueGNE <- rbind(c(2, -2, 0, 5*2^5),
 	c(-2, 3, 8, 0),
@@ -53,7 +53,7 @@ trueGNE <- rbind(c(2, -2, 0, 5*2^5),
 colnames(trueGNE) <- c("x1", "x2", "lam1", "lam2")
 rownames(trueGNE) <- 1:4
 
-## ---- fig=FALSE, echo=FALSE, eval=TRUE----------------------------------------
+## ----fig=FALSE, echo=FALSE, eval=TRUE-----------------------------------------
 print(trueGNE)
 
 ## ----bench, fig=FALSE, echo=TRUE, eval=FALSE----------------------------------
